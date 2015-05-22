@@ -1,0 +1,3 @@
+Luis, te dejo este archivo por si no te das cuenta. El programa que he puesto, aparte de manejarse con los
+botones con forma de flecha que hay, también se puede manejar con los flechas del teclado. Quería hacer algo
+parecido al juego "Etch a Sketch", pero hacer dos ruedas para manejar la linea no he sabido hacerlo. Un saludo.
